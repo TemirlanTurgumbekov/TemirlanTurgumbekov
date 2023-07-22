@@ -1,30 +1,30 @@
 
-# Привет, меня зовут Алексей!
+# Привет, меня зовут Темирлан!
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
+Я начинающий Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Я обладаю прочными навыками в Python и фреймворках Django, а также опытом работы с базами данных и системами контроля версий. Я активно изучаю новые технологии и готов к новым вызовам. Я коммуникативен и хорошо работаю в команде. Моя страсть к программированию и стремление к развитию помогут мне достичь успеха в сфере разработки программного обеспечения.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: Участвовал в хакатоне от Makers. В ходе которого написал телеграм бота
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: Учавствовал в командном хакатоне! В ходе хакатона по программированию, мы разработали некоммерческий проект типа Customer to Customer (C2C)
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :zap: Завершил курсы по BackEnd разработке Makers!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stateonuris) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tturgum5ekov@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+    <a href="https://www.linkedin.com/in/%D1%82%D0%B5%D0%BC%D0%B8%D1%80%D0%BB%D0%B0%D0%BD-%D1%82%D1%83%D1%80%D0%B3%D1%83%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-b28b91252/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
@@ -33,9 +33,9 @@
     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a> -->
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <!-- <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
+    </a> -->
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a> -->
