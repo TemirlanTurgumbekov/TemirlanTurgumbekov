@@ -15,7 +15,10 @@
 
 - :seedling: Учавствовал в командном хакатоне, где мы разработали некоммерческий проект типа Customer to Customer (C2C)
 
-- :zap: Завершил курсы по BackEnd разработке Makers!
+- 🎓: На данный момент студент 4-курса КГТУ им. Раззакова специальность "Информационные системы и сети"!
+
+- :zap: Завершил курсы по Back-End разработке Makers!
+
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stateonuris) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tturgum5ekov@gmail.com)
 
