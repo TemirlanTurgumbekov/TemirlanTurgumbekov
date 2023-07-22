@@ -17,7 +17,7 @@
 
 - :zap: Завершил курсы по BackEnd разработке Makers!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stateonuris) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tturgum5ekov@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stateonuris) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tturgum5ekov@gmail.com)
 
 ---
 
